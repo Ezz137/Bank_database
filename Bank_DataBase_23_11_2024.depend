@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1732970373 source:f:\embedded projects\codeblocks\bank_database_23_11_2024\bankdata.c
+	"TYPEDEF.h"
+	<stdio.h>
+	"BANKDATA.h"
+	<string.h>
+
+1732917712 f:\embedded projects\codeblocks\bank_database_23_11_2024\typedef.h
+
+1732918053 f:\embedded projects\codeblocks\bank_database_23_11_2024\bankdata.h
+
+1732970049 source:f:\embedded projects\codeblocks\bank_database_23_11_2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"TYPEDEF.h"
+	"BANKDATA.h"
+
